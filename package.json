@@ -2,7 +2,12 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.5.0",
+    "node": "10.13.0"
+  },
   "dependencies": {
+    "bootstrap": "^4.2.1",
     "react": "^16.6.3",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.6.3",
